@@ -136,4 +136,3 @@ The file `pizza_sales_queries.sql` includes:
 
 ## 👤 Author
 **Harshad Shinde**  
-SQL • MySQL • Data Analyst
