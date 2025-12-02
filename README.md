@@ -131,7 +131,3 @@ The file `pizza_sales_queries.sql` includes:
 - MySQL  
 - CSV Dataset  
 
----
-
-## 👤 Author
-**Harshad Shinde**  
